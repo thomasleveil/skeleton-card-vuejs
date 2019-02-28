@@ -1,5 +1,5 @@
 <template>
-<v-card-media class='card-skeleton__media' :style="{height:height,width:width}"></v-card-media>
+<v-responsive class='card-skeleton__media' :style="{height:height,width:width}"></v-responsive>
 </template>
 
 <script>
